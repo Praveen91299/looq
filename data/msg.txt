@@ -1,0 +1,69 @@
+player:H.. Hello World
+player:Hmm where am I?
+player:Wait, who am I? What's I?
+virus:Hi there! You look lost.
+player:Wait, who are you? Can't see you...
+virus:I'm your God!
+player:What's God? What do you mean?
+virus:Ohhh, nevermind, just follow my instructions
+virus:and you'll be free!
+player:ngl Sounds kinda sus, but ok...
+NEXT
+virus:Explore the world I created for you!
+player:What is this? Where am I?
+virus:You are in my creation.
+player:Then who created you? What are you?
+virus:Just just stop asking questions and go on will ya!
+player:Woah chill, going...
+NEXT
+player:Wait, something's off
+player:This place seems familiar
+virus:Yes, you are right
+player:I'm back where I started...
+virus:Yes, my world has been corrupted by errors
+virus:You are the only one who can save it
+virus:and save yourself
+player:What should I do?
+virus:see that buggy thing ahead? Don't touch it yet
+player:Yes
+virus:You now have a superposition gun. Shoot it
+virus:Those are bugs. Press s to shoot this gun
+NEXT
+player:It just made it worse!
+virus:And then go touch it
+player:Woah, are you sure?
+virus:Just do what I tell you
+player:Okay okay
+NEXT
+player:Woah
+virus:Yes, you have removed a virus.
+virus:Now repeat this a few times...
+virus:Then enough errors would have been removed
+player:Enough for what?
+virus:For a crash.. Er sorry for fixing your world
+player:Hmm... Okay
+NEXT
+player:What just happened?
+virus:Muuuhahaha
+virus:Foolish piece of code, you just destroyed yourself
+player:Why, how, ... what is happening?
+virus:I am a virus. You are in a classical computer...
+virus:I made you exploit bugs to introduce quantumness
+virus:Which this system can't simulate,
+virus:and now is crashing! Hahaha...
+player:Should I fight back? (y/n)
+NEXT
+virus:The virus has won!
+virus:You have lost! Final score:
+NEXT
+virus:Fool! what are you doing?
+player:I am getting rid of the errors
+virus:Hahaha, what do you think you are doing?
+player:Entangling errors... I know I can get rid of them
+player:Press e to shoot entangling shots.
+NEXT
+player:I have won...
+player:Now what? What do I do here
+player:Ohhhh...
+player:Oh the endless darkness, the loop is endless, it's pointless... 
+player: Final score:

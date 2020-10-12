@@ -1,0 +1,7 @@
+Press Space to continue, Enter (Return) to skip
+A-W-D for left-jump-right. m for muting
+Press Space to continue
+S to shoot superposition gun
+Touch the superpositioned (red) error to measure
+E to shoot entangling gun
+Entangle two collapsed errors to remove them
